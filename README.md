@@ -8,6 +8,8 @@ install selenium: pip install selenium
 install selenium chromedriver:
 https://chromedriver.chromium.org/downloads
 
+in the python script, add the path to the chromedriver where it says 'path to chromedriver'
+usually it would be /users/yourname/downloads/chromedriver
 (WHEN RUNNING THE PROGRAM):
 add your schoolloop username and password:
 
